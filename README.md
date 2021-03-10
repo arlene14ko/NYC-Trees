@@ -23,7 +23,7 @@ ________________________________________________________________________________
 This is a project about cleaning a dataset for NYC Trees. We are given a dataset from NYC Trees and we need to clean the data using pandas and all that we have learned so far about Data Cleaning and Data Preprocessing.
 
 
-#### Additional Information
+### Additional Information
 
 An example dataset  data_100000.csv  has already been downloaded in assets/ folder, which has 100000 rows and is around 21.5MB. The full file is more than 10x larger but it is not required to use the full file. However, please use at least 100000 rows for the final version. Of course, you can always test your code on smaller data sets.
 
