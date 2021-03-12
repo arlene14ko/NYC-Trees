@@ -46,6 +46,14 @@ ________________________________________________________________________________
 **README.md**
   - has all the necessary information regarding the project
 
+**NYC Trees - 1st version.ipynb**
+  - This notebook has only the function to clean the data set without explaining all the steps.
+  - if you wish to just clean the dataset, you can use this notebook
+ 
+**NYC Trees.ipynb**
+  - This notebook has an explanation of the step by step process on cleaning the data. 
+  - If you want to know how to clean it step by step, you can use this notebook.
+
 **assets folder**
   - this has 3 files namely:
       1. **README.md**
@@ -56,7 +64,9 @@ ________________________________________________________________________________
 
       3. **download.py**
           - this is a python program if you want to download your own dataset
-          - 
+  
+**datasets folder**
+  - this is where the cleaned datasets are stored
 ______________________________________________________________________________________________________________________________________________________
 
 ## Libraries Used For This Project
@@ -67,9 +77,9 @@ built on top of the Python programming language.
   - In this project, pandas is used to clean the dataset
 
 
-**Typing** https://docs.python.org/3/library/typing.html
-  - Typing defines a standard notation for Python function and variable type annotations.
-  - In this project, typing is used to help document the code properly.
+**Numpy** https://numpy.org/
+  - Numpy is a fundamental package for scientific computing with Python.
+  - In this project, numpy is used to help clean the dataset.
 
 ______________________________________________________________________________________________________________________________________________________
 
@@ -77,7 +87,7 @@ ________________________________________________________________________________
   - If you wish to clone/fork this repository, you can just click on the repository, then click the Clone/fork button and follow the instructions.
 
 ## Pending...
-  - 
+  - There are still a lot of possibilities in cleaning a dataset and adding your own feature, but this will do for now as we dont have a specific model to do yet.
 
   
 ![ThankYou](https://i.pinimg.com/originals/fd/9d/11/fd9d11fc8e2b9b9570b180a2cf1ecc8c.gif) ![Bye](https://i.pinimg.com/originals/6a/c6/de/6ac6de54941a55959266fddc6389f9c3.gif)
